@@ -1,7 +1,5 @@
-[![MasterHead](https://intellipaat.com/blog/wp-content/uploads/2017/11/DevOps-01.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm DINESH KUMAR REDDY</h1>
-<h3 align="center">A passionate DevOps Engineering aspirant</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj2LiKpQJZKe0vtibY1Lw6LWOo8WSprkQPu2zEexBDA&s">
+<h3 align="center">A passionate DevOps Engineer aspirant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh4278&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh4278" /> </p>
 
